@@ -1,0 +1,9 @@
+.image_wrapper{
+    margin: 0 30px;
+    width: 50%;
+    color: #fff;
+ 
+}
+.image_wrapper img{
+    width: 100%;
+}
